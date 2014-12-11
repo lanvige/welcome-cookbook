@@ -1,0 +1,5 @@
+/cookbooks/
+
+
+*.project
+.DS_Store
